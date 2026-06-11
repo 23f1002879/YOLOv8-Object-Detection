@@ -1,0 +1,9 @@
+cat << 'EOF' > .gitignore
+venv/
+.venv/
+*.pt
+*.onnx
+runs/
+.vscode/
+__pycache__/
+EOF
