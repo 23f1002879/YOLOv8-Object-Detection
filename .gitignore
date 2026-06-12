@@ -4,6 +4,7 @@ venv/
 *.pt
 *.onnx
 runs/
+output/
 .vscode/
 __pycache__/
 EOF
